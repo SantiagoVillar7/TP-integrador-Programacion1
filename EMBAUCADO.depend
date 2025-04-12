@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1721084675 source:c:\users\usuario\desktop\desarrollo web\embaucado\jugar.cpp
+	<iostream>
+	"nombres.h"
+
+1721162209 c:\users\usuario\desktop\desarrollo web\embaucado\nombres.h
+
+1721165073 source:c:\users\usuario\desktop\desarrollo web\embaucado\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"nombres.h"
+
+1721162832 source:c:\users\usuario\desktop\desarrollo web\embaucado\mezclar.cpp
+	<iostream>
+	"nombres.h"
+
+1721084675 source:c:\users\usuario\desktop\utn\programacion i\embaucado\jugar.cpp
+	<iostream>
+	"nombres.h"
+
+1721162209 c:\users\usuario\desktop\utn\programacion i\embaucado\nombres.h
+
+1721165073 source:c:\users\usuario\desktop\utn\programacion i\embaucado\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"nombres.h"
+
+1721179352 source:c:\users\usuario\desktop\utn\programacion i\embaucado\mezclar.cpp
+	<iostream>
+	"nombres.h"
+
